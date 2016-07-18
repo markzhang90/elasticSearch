@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OneStory/.idea/OneStory.iml" filepath="$PROJECT_DIR$/../OneStory/.idea/OneStory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OneStoryKmq/.idea/OneStoryKmq.iml" filepath="$PROJECT_DIR$/../OneStoryKmq/.idea/OneStoryKmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/elasticSearch.iml" filepath="$PROJECT_DIR$/.idea/elasticSearch.iml" />
+    </modules>
+  </component>
+</project>
